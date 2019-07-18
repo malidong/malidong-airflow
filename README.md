@@ -1,8 +1,11 @@
-# chart-ai-airflow
+# malidong-airflow
 airflow-in-container
 
-# Usage
+# Usage up
 `docker-compose -f docker-compose-CeleryExecutor.yml up -d`
+
+# Usage shutdown
+`docker-compose -f docker-compose-CeleryExecutor.yml down`
 
 # webserver
 http://localhost:8080
